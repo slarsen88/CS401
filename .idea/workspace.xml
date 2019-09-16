@@ -1,0 +1,1026 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d4bdef68-09f6-49d2-9ea1-110c0667d1a2" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="175" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getKeys</find>
+      <find>Keys</find>
+      <find>RedBlack</find>
+      <find>RedBlackBST</find>
+      <find>System</find>
+      <find>46</find>
+      <find>Britney</find>
+      <find>1427</find>
+      <find>Depeche</find>
+      <find>72</find>
+      <find>30</find>
+      <find>And One</find>
+      <find>12464</find>
+      <find>parseArtists()</find>
+      <find>19</find>
+      <find>20118</find>
+      <find>The Pretty Reckless</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/CS401-Algorithms-Spring-2019" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/LineDelimiterTest.java" />
+        <option value="$PROJECT_DIR$/src/TestforMatt/HashDupLetters.java" />
+        <option value="$PROJECT_DIR$/src/Assignment3/GreaterThan.java" />
+        <option value="$PROJECT_DIR$/src/Assignment3/MovieData.java" />
+        <option value="$PROJECT_DIR$/src/Assignment3/LogicalOperators.java" />
+        <option value="$PROJECT_DIR$/src/Assignment3/Movie.java" />
+        <option value="$PROJECT_DIR$/src/Assignment3/Query.java" />
+        <option value="$PROJECT_DIR$/src/Assignment3/test.java" />
+        <option value="$PROJECT_DIR$/src/Assignment3/Or.java" />
+        <option value="$PROJECT_DIR$/src/Assignment3/Not.java" />
+        <option value="$PROJECT_DIR$/src/Assignment3/And.java" />
+        <option value="$PROJECT_DIR$/src/Assignment3/GT.java" />
+        <option value="$PROJECT_DIR$/src/Assignment3/GTE.java" />
+        <option value="$PROJECT_DIR$/src/Assignment3/LT.java" />
+        <option value="$PROJECT_DIR$/src/Assignment3/LTE.java" />
+        <option value="$PROJECT_DIR$/src/Assignment3/Equal.java" />
+        <option value="$PROJECT_DIR$/src/Graphs/DirectedGraph.java" />
+        <option value="$PROJECT_DIR$/src/Graphs/DirectedCycle.java" />
+        <option value="$PROJECT_DIR$/tinyG.txt" />
+        <option value="$PROJECT_DIR$/src/Graphs/Graph.java" />
+        <option value="$PROJECT_DIR$/src/Graphs/BreadthFirstSearch.java" />
+        <option value="$PROJECT_DIR$/src/Graphs/DepthFirstOrder.java" />
+        <option value="$PROJECT_DIR$/src/Graphs/Test.java" />
+        <option value="$PROJECT_DIR$/src/EdgeWeighted/EdgeWeightedGraph.java" />
+        <option value="$PROJECT_DIR$/src/EdgeWeighted/data.txt" />
+        <option value="$PROJECT_DIR$/src/EdgeWeighted/DirectedGraph.java" />
+        <option value="$PROJECT_DIR$/src/EdgeWeighted/DirectedEdge.java" />
+        <option value="$PROJECT_DIR$/src/EdgeWeighted/PrimLazy.java" />
+        <option value="$PROJECT_DIR$/src/EdgeWeighted/Edge.java" />
+        <option value="$PROJECT_DIR$/src/Assignment4/User.java" />
+        <option value="$PROJECT_DIR$/src/Assignment4/RegexTest.java" />
+        <option value="$PROJECT_DIR$/src/Assignment4/ListeningCount.java" />
+        <option value="$PROJECT_DIR$/src/Kruskal/KruskalMST.java" />
+        <option value="$PROJECT_DIR$/src/Kruskal/Client.java" />
+        <option value="$PROJECT_DIR$/src/EdgeWeighted/Client.java" />
+        <option value="$PROJECT_DIR$/src/EdgeWeighted/EdgeWeightedDirectedGraph.java" />
+        <option value="$PROJECT_DIR$/src/DijkstraSP/DijsktraSP.java" />
+        <option value="$PROJECT_DIR$/artists.dat" />
+        <option value="$PROJECT_DIR$/user_friends.dat" />
+        <option value="$PROJECT_DIR$/src/Assignment3/IFieldIndex.java" />
+        <option value="$PROJECT_DIR$/src/Assignment3/MoviesDB.java" />
+        <option value="$USER_HOME$/Desktop/Assignment3JavaFiles/LinkedStackTest.java" />
+        <option value="$PROJECT_DIR$/src/Assignment4/UserArtistRelations.java" />
+        <option value="$PROJECT_DIR$/src/Assignment4/ILastFM.java" />
+        <option value="$PROJECT_DIR$/src/Assignment4/Artist.java" />
+        <option value="$PROJECT_DIR$/user_artists.dat" />
+        <option value="$PROJECT_DIR$/src/Assignment4/RecommenderSystemTest.java" />
+        <option value="$PROJECT_DIR$/src/Assignment4/RecommenderSystem.java" />
+        <option value="$PROJECT_DIR$/src/Assignment4/Client.java" />
+        <option value="$PROJECT_DIR$/src/Graphs/GraphMatrix.java" />
+        <option value="$PROJECT_DIR$/src/Graphs/DepthFirstSearch.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="606" />
+    <option name="y" value="63" />
+    <option name="width" value="981" />
+    <option name="height" value="1032" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CS401Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CS401Algorithms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS401Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CS401Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS401Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CS401Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Assignment4" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555521785642" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BellevueCollege/Spring19/CS401/poi-4.1.0.jar!/" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Assignment4" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="EdgeWeighted" />
+      <recent name="Assignment3" />
+      <recent name="Graphs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\stuar\OneDrive\Documents\CS401Algorithms" />
+      <recent name="C:\Users\stuar\OneDrive\Documents\CS401Algorithms\src\UnionFind" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment4.Client" />
+      <module name="CS401Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Assignment4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecommenderSystemTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CS401Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Assignment4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Assignment4" />
+      <option name="MAIN_CLASS_NAME" value="Assignment4.RecommenderSystemTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecommenderSystemTest.shouldListCommonArtists" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CS401Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Assignment4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Assignment4" />
+      <option name="MAIN_CLASS_NAME" value="Assignment4.RecommenderSystemTest" />
+      <option name="METHOD_NAME" value="shouldListCommonArtists" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecommenderSystemTest.shouldListRecommended10" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CS401Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Assignment4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Assignment4" />
+      <option name="MAIN_CLASS_NAME" value="Assignment4.RecommenderSystemTest" />
+      <option name="METHOD_NAME" value="shouldListRecommended10" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecommenderSystemTest.shouldListTop10" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CS401Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Assignment4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Assignment4" />
+      <option name="MAIN_CLASS_NAME" value="Assignment4.RecommenderSystemTest" />
+      <option name="METHOD_NAME" value="shouldListTop10" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+        <item itemvalue="JUnit.RecommenderSystemTest" />
+        <item itemvalue="JUnit.RecommenderSystemTest.shouldListTop10" />
+        <item itemvalue="JUnit.RecommenderSystemTest.shouldListRecommended10" />
+        <item itemvalue="JUnit.RecommenderSystemTest.shouldListCommonArtists" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4bdef68-09f6-49d2-9ea1-110c0667d1a2" name="Default Changelist" comment="" />
+      <created>1554741148918</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554741148918</updated>
+      <workItem from="1554741152135" duration="5267000" />
+      <workItem from="1555085041224" duration="198000" />
+      <workItem from="1555180021304" duration="357000" />
+      <workItem from="1555267455564" duration="11837000" />
+      <workItem from="1555521535110" duration="310000" />
+      <workItem from="1555522088227" duration="304000" />
+      <workItem from="1555522813769" duration="10627000" />
+      <workItem from="1555793073050" duration="19196000" />
+      <workItem from="1555974018138" duration="887000" />
+      <workItem from="1556041171255" duration="8575000" />
+      <workItem from="1556129032584" duration="23440000" />
+      <workItem from="1556400793531" duration="3423000" />
+      <workItem from="1556557658109" duration="1219000" />
+      <workItem from="1556651640946" duration="17843000" />
+      <workItem from="1556831306065" duration="1958000" />
+      <workItem from="1556849669569" duration="4767000" />
+      <workItem from="1556995380094" duration="18050000" />
+      <workItem from="1557088891742" duration="4678000" />
+      <workItem from="1557100352792" duration="22000" />
+      <workItem from="1557162412206" duration="7716000" />
+      <workItem from="1557248680788" duration="26000" />
+      <workItem from="1557256827661" duration="10215000" />
+      <workItem from="1557445677723" duration="7681000" />
+      <workItem from="1557769124599" duration="2649000" />
+      <workItem from="1557778921288" duration="37000" />
+      <workItem from="1557796906287" duration="402000" />
+      <workItem from="1557868054925" duration="567000" />
+      <workItem from="1557895590638" duration="5518000" />
+      <workItem from="1558031266013" duration="189000" />
+      <workItem from="1558031647539" duration="3000" />
+      <workItem from="1558046244847" duration="8657000" />
+      <workItem from="1558120092844" duration="45000" />
+      <workItem from="1558120391070" duration="11000" />
+      <workItem from="1558134450152" duration="200000" />
+      <workItem from="1558206292644" duration="12527000" />
+      <workItem from="1558373830397" duration="2979000" />
+      <workItem from="1558388891632" duration="678000" />
+      <workItem from="1558471274617" duration="23904000" />
+      <workItem from="1558656747575" duration="11632000" />
+      <workItem from="1558810138760" duration="53848000" />
+      <workItem from="1558994325430" duration="8000" />
+      <workItem from="1559004354038" duration="14779000" />
+      <workItem from="1559149943636" duration="5527000" />
+      <workItem from="1559261233381" duration="3769000" />
+      <workItem from="1559274780635" duration="1347000" />
+      <workItem from="1559326696362" duration="724000" />
+      <workItem from="1559584024234" duration="1969000" />
+      <workItem from="1559622062911" duration="99000" />
+      <workItem from="1559753212172" duration="5539000" />
+      <workItem from="1559923616100" duration="30105000" />
+      <workItem from="1560107767517" duration="17607000" />
+      <workItem from="1560265519031" duration="436000" />
+      <workItem from="1560357542179" duration="6436000" />
+      <workItem from="1560448772115" duration="121000" />
+      <workItem from="1560466820154" duration="5759000" />
+      <workItem from="1560482654194" duration="22744000" />
+      <workItem from="1560564472601" duration="27633000" />
+      <workItem from="1560825645807" duration="1235000" />
+      <workItem from="1560899190320" duration="4653000" />
+      <workItem from="1561260060461" duration="3000" />
+      <workItem from="1561670346931" duration="220000" />
+      <workItem from="1562093719531" duration="222000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="RecommenderSystemTest_shouldListCommonArtists - 2019.06.16 at 12h 40m 52s.xml">
+      <configuration name="RecommenderSystemTest.shouldListCommonArtists" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RecommenderSystemTest_shouldListRecommended10 - 2019.06.16 at 13h 57m 26s.xml">
+      <configuration name="RecommenderSystemTest.shouldListRecommended10" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RecommenderSystemTest_shouldListRecommended10 - 2019.06.16 at 13h 59m 36s.xml">
+      <configuration name="RecommenderSystemTest.shouldListRecommended10" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RecommenderSystemTest - 2019.06.16 at 14h 02m 28s.xml">
+      <configuration name="RecommenderSystemTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RecommenderSystemTest_shouldListTop10 - 2019.06.16 at 14h 14m 27s.xml">
+      <configuration name="RecommenderSystemTest.shouldListTop10" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RecommenderSystemTest_shouldListTop10 - 2019.06.16 at 14h 15m 38s.xml">
+      <configuration name="RecommenderSystemTest.shouldListTop10" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RecommenderSystemTest_shouldListTop10 - 2019.06.16 at 14h 16m 03s.xml">
+      <configuration name="RecommenderSystemTest.shouldListTop10" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RecommenderSystemTest_shouldListTop10 - 2019.06.16 at 14h 16m 10s.xml">
+      <configuration name="RecommenderSystemTest.shouldListTop10" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RecommenderSystemTest - 2019.06.16 at 14h 16m 30s.xml">
+      <configuration name="RecommenderSystemTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RecommenderSystemTest - 2019.06.16 at 15h 12m 46s.xml">
+      <configuration name="RecommenderSystemTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="433377000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21376519" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4979757" weight="0.38543516" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.42095914" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3285968" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5020243" side_tool="true" weight="0.52575487" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3285968" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32955465" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32955465" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11659919" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4979757" weight="0.41740674" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4831261" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3285968" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5020243" side_tool="true" weight="0.52575487" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3285968" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32955465" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32955465" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LineDelimiterTest.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="artistName" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CS401Algorithms$Soil.ic" NAME="Soil Coverage Results" MODIFIED="1556663908576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Assignment2Part1.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-engine/1.5.0-M1/junit-platform-engine-1.5.0-M1.jar!/org/junit/platform/engine/support/hierarchical/ThrowableCollector.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-engine/1.5.0-M1/junit-platform-engine-1.5.0-M1.jar!/org/junit/platform/engine/support/hierarchical/SameThreadHierarchicalTestExecutorService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#870#871#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../BellevueCollege/Spring19/CS401/algs4.jar!/edu/princeton/cs/algs4/Bag.java" />
+    <entry file="jar://$PROJECT_DIR$/../BellevueCollege/Spring19/CS401/algs4.jar!/edu/princeton/cs/algs4/Digraph.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.5.0-RC1/junit-platform-commons-1.5.0-RC1.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="356" selection-start-line="356" selection-end-line="356" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-engine/5.5.0-M1/junit-jupiter-engine-5.5.0-M1.jar!/org/junit/jupiter/engine/descriptor/TestMethodTestDescriptor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="154" selection-start-line="154" selection-end-line="154" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_friends.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="31" column="8" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_KokarevaEvgeniyaCS401_4.zip/KokarevaEvgeniyaCS401_4/SocialNetworkBasedRecommendationSystem/src/RecommenderSystem.java" />
+    <entry file="file://$PROJECT_DIR$/src/Assignment3/MoviesDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#9694#0" expanded="true" />
+            <element signature="e#9027#9028#0" expanded="true" />
+            <element signature="e#9062#9063#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_artists.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="42672" column="13" selection-start-line="42672" selection-start-column="8" selection-end-line="42672" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artists.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="704" column="10" selection-start-line="704" selection-start-column="10" selection-end-line="704" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Assignment4.Artist">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Assignment4.Artist</OriginalElement>
+          <nodes>
+            <node x="145.0" y="0.0">Assignment4.ILastFM</node>
+            <node x="0.0" y="187.0">Assignment4.RecommenderSystem</node>
+            <node x="0.0" y="534.0">Assignment4.Artist</node>
+            <node x="38.0" y="435.0">java.lang.Comparable</node>
+            <node x="584.0" y="435.0">Assignment4.Client</node>
+            <node x="252.0" y="435.0">Assignment4.UserArtistRelations</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="Assignment4.RecommenderSystem" target="Assignment4.ILastFM">
+              <point x="0.0" y="-101.5" />
+              <point x="0.0" y="68.5" />
+            </edge>
+            <edge source="Assignment4.Artist" target="java.lang.Comparable">
+              <point x="0.0" y="-90.5" />
+              <point x="0.0" y="24.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.6000000000000001" x="-45.0" y="314.0" />
+          <SelectedNodes>
+            <node>Assignment4.Artist</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Assignment3/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#4404#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Assignment3.And">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Assignment3.And</OriginalElement>
+          <nodes>
+            <node x="" y="">Assignment3.IFieldIndex</node>
+            <node x="" y="">Assignment3.Equal</node>
+            <node x="" y="">Assignment3.Not</node>
+            <node x="" y="">Assignment3.Or</node>
+            <node x="" y="">Assignment3.And</node>
+            <node x="" y="">Assignment3.Query</node>
+            <node x="" y="">Assignment3.LT</node>
+            <node x="" y="">Assignment3.GTE</node>
+            <node x="" y="">Assignment3.LTE</node>
+            <node x="" y="">Assignment3.GT</node>
+            <node x="" y="">java.lang.Comparable</node>
+            <node x="" y="">Assignment3.MoviesDB</node>
+            <node x="" y="">Assignment3.Movie</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="406.0" y="157.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Assignment3/IFieldIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Assignment4.RecommenderSystem">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Assignment4.RecommenderSystem</OriginalElement>
+          <nodes>
+            <node x="36.5" y="215.0">Assignment4.ILastFM</node>
+            <node x="0.0" y="292.0">Assignment4.RecommenderSystem</node>
+            <node x="0.0" y="77.0">Assignment4.Artist</node>
+            <node x="13.5" y="0.0">java.lang.Comparable</node>
+            <node x="230.0" y="364.0">Assignment4.Client</node>
+            <node x="0.0" y="364.0">Assignment4.UserArtistRelations</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="Assignment4.RecommenderSystem" target="Assignment4.ILastFM">
+              <point x="0.0" y="-13.5" />
+              <point x="0.0" y="13.5" />
+            </edge>
+            <edge source="Assignment4.Artist" target="java.lang.Comparable">
+              <point x="0.0" y="-46.5" />
+              <point x="0.0" y="13.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-144.0" y="147.0" />
+          <SelectedNodes>
+            <node>Assignment4.RecommenderSystem</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Properties</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Assignment4/ClassDiagram.png" />
+    <entry file="file://$PROJECT_DIR$/src/Assignment4/UserArtistRelations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="28" column="88" selection-start-line="28" selection-start-column="88" selection-end-line="28" selection-end-column="88" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Assignment4/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Assignment4/ILastFM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#503#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Assignment4/RecommenderSystemTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="280" column="55" selection-start-line="280" selection-start-column="55" selection-end-line="280" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Assignment4/Artist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#1242#0" expanded="true" />
+            <element signature="e#811#812#0" expanded="true" />
+            <element signature="e#839#840#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UnionFind/UnionFind.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestforMatt/HashDupLetters.java" />
+    <entry file="file://$PROJECT_DIR$/src/Kruskal/KruskalMST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="685">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EdgeWeighted/Edge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-148">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Graphs/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-318">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Graphs/GraphMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-476">
+          <caret line="36" column="57" lean-forward="true" selection-start-line="36" selection-start-column="57" selection-end-line="36" selection-end-column="57" />
+          <folding>
+            <element signature="e#863#872#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Graphs/DirectedCycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-505">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Graphs/DepthFirstSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-442">
+          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Graphs/DepthFirstOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-391">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Graphs/BreadthFirstSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-697">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EdgeWeighted/DirectedEdge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+          <folding>
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EdgeWeighted/EdgeWeightedDirectedGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#582#583#0" expanded="true" />
+            <element signature="e#611#612#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EdgeWeighted/EdgeWeightedGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EdgeWeighted/PrimLazy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RedBlackTree/RedBlackTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Searching/BinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1139">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Searching/SeparateChainingHashST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-374">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Searching/SequentialSearchST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-357">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sort/Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3123">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UnionFind/QuickFind.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UnionFind/QuickUnion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-221">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UnionFind/WeightedQuickUnion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Graphs/DirectedGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DijkstraSP/DijsktraSP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Graphs/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EdgeWeighted/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Assignment4/RecommenderSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1881">
+          <caret line="239" column="74" selection-start-line="239" selection-start-column="74" selection-end-line="239" selection-end-column="74" />
+          <folding>
+            <element signature="e#0#9628#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Octane_SDK_Java_3_0_0/samples/com/example/sdksamples/ConnectionAttemptListenerImplementation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../IOI/Java/src/ReadTryTwo/test.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>CS401Algorithms</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>org.junit.jupiter:junit-jupiter:5.5.0-M1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="stdlib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../BellevueCollege/Spring19/CS401/stdlib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../BellevueCollege/Spring19/CS401/stdlib.jar!/" />
+    </SOURCES>
+  </library>
+</component>
